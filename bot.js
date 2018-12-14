@@ -8,4 +8,4 @@ if(mohamed) {
 setTimeout(() => mohamed.send(**We .**), 4000)
 }
 });
-bot.login("NTIyNzMzOTY4Mjk1MTk4NzIw.DvVvrw.7XHe3C_JI4s17JhdamQLUPTXgYo")
+ client.login(process.env.BOT_TOKEN); 
